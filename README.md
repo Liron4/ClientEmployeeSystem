@@ -1,3 +1,3 @@
 # ClientEmployeeSystem
-A fun project I made during my first year of CS, experimented with various concepts of OOP - Inheritance, polymorphism, and class structures.
+A project I made using the WinForms platform and C#, designed the forms/panels using free sources on the Internet.
 To access the app visual studio supporting the Winforms platform is required.
