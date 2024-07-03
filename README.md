@@ -10,9 +10,9 @@ Welcome to **ClientEmployeeSystem**! This is my first project as a CS student, b
 ## Screenshot
 Here's a glimpse of the main order menu:
 
-![Main Order Menu](https://imgur.com/a/JQR6lle)
+<img src="https://github.com/Liron4/ClientEmployeeSystem/assets/140390832/53f16435-697e-4eec-bc22-774be990c9a1" width="680">
 
-The main order menu is the hub for managing clients and employees, viewing records, and more.
+The order menu is the form where you order your food based on minimalistic design and delivery preference, after placing an order, the data is stored in an Order List for the Employees Hub.
 
-## Note:
+## Note
 To run the app, you need Visual Studio with WinForms support.
